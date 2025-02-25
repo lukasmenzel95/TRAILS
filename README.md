@@ -14,3 +14,8 @@ Video + GPS: Extract frames from bike-ride videos, match each frame to its GPS c
 2. Extract frames (images) with GPS Data intact
 3. Classify surfaces (e.g., “gravel,” “dirt,” “asphalt”).
 4. Visualize on a map (Leaflet/Mapbox) for post-ride analysis.
+
+## Training Data Sources:
+- Semi-handpicked https://www.mapillary.com/ images/videos
+- Own footage captured while riding
+- Some Wikimedia Commons footage
