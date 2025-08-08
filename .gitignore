@@ -172,3 +172,8 @@ cython_debug/
 .venv/
 __pycache__/
 .ipynb_checkpoints/
+data/
+*.jpg
+*.jpeg
+*.png
+*.mp4
