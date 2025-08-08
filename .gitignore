@@ -177,3 +177,5 @@ data/
 *.jpeg
 *.png
 *.mp4
+.env
+.env
