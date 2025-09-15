@@ -6,12 +6,6 @@ The system provides **post-ride insights** to help cyclists choose the best tire
 
 ---
 
-![Example classification result](data/assets/trails-img.png)
-
-*Example: Photorealistic frame classified with Surface = Gravel, Smoothness = 3/5, Grade = 2/5*  
-
----
-
 ## 🚴 Project Goals  
 
 - Build a system that can classify off-road cycling terrain from ride videos or photos.  
