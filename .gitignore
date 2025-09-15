@@ -180,3 +180,4 @@ data/images
 .env
 .env
 data/images/
+!data/assets/
